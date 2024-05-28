@@ -45,6 +45,7 @@ print("Ingrese primer valor")
     val producto = valor3 * valor4
     println("El prodcuto de los dos ultimos es $producto")
      */
+    /*
     print("Ingrese el primer digito")
     val valor1 = readln().toInt()
     print("Ingrese el segundo digito")
@@ -57,6 +58,7 @@ print("Ingrese primer valor")
     println("La suma de todos es $suma")
     val promedio = valor1 + valor2 + valor3 +valor4 / 4
     println("El prodcuto de todos es $promedio")
+     */
 }
 
 
